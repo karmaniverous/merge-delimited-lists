@@ -1,7 +1,7 @@
 {
-  "name": "@karmaniverous/template-npm",
+  "name": "@karmaniverous/merge-delimited-lists",
   "version": "0.0.0",
-  "description": "An ES6 NPM package project template featuring mocha/chai test support.",
+  "description": "Merges and deduplicates delimited lists.",
   "main": "lib/index.js",
   "scripts": {
     "build": "rimraf ./lib && babel src -d lib",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/karmaniverous/template-npm"
+    "url": "https://github.com/karmaniverous/merge-delimited-lists"
   },
   "keywords": [],
   "author": "Jason G. Williscroft",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/karmaniverous/template-npm/issues"
+    "url": "https://github.com/karmaniverous/merge-delimited-lists/issues"
   },
-  "homepage": "https://github.com/karmaniverous/template-npm#readme",
+  "homepage": "https://github.com/karmaniverous/merge-delimited-lists#readme",
   "devDependencies": {
     "@babel/cli": "^7.18.6",
     "@babel/core": "^7.18.6",
