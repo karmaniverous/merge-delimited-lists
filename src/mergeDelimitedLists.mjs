@@ -9,7 +9,10 @@
 const mergeDelimitedLists = (delimiter, ...lists) =>
   [
     ...new Set(
-      lists.reduce((a, list) => [...a, ...list.split(delimiter)], [])
+      lists.reduce(
+        (a, list) => (list ? [...a, ...list.split(delimiter)] : a),
+        []
+      )
     ).values(),
   ].join(delimiter);
 
