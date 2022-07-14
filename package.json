@@ -1,6 +1,6 @@
 {
   "name": "@karmaniverous/merge-delimited-lists",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Merges and deduplicates delimited lists.",
   "main": "lib/index.js",
   "scripts": {
