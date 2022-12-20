@@ -1,8 +1,3 @@
-# merge-delimited-lists
-
-See [tests](/src/export/mergeDelimitedLists/mergeDelimitedLists.test.mjs) for examples of
-usage!
-
 # API Documentation
 
 ```js
@@ -22,8 +17,3 @@ Merges and deduplicates delimited lists.
 | delimiter | <code>string</code> \| <code>Object</code> | A string or RegExp used as a delimiter. |
 | ...lists | <code>string</code> | Any number of delimited lists. |
 
-
----
-
-See more great templates and other tools on
-[my GitHub Profile](https://github.com/karmaniverous)!
