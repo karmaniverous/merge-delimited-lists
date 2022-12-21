@@ -1,7 +1,8 @@
 # merge-delimited-lists
 
-See [tests](/src/export/mergeDelimitedLists/mergeDelimitedLists.test.mjs) for examples of
-usage!
+See
+[tests](https://github.com/karmaniverous/merge-delimited-lists/blob/main/lib/mergeDelimitedLists/mergeDelimitedLists.test.js)
+for examples of usage!
 
 # API Documentation
 
