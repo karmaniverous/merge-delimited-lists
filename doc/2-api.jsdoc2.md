@@ -1,9 +1,5 @@
 # API Documentation
 
-```js
-import { mergeDelimitedLists, PACKAGE_INFO } from '@karmaniverous/merge-delimited-lists`;
-```
-
 <a name="mergeDelimitedLists"></a>
 
 ## mergeDelimitedLists(delimiter, ...lists) ⇒ <code>string</code>
